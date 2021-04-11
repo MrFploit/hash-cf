@@ -4,7 +4,6 @@
 <b>.شما با استفاده از این اسکریپت میتوانید نوع هش را شناسایی کرده و آنرا کرک کنید</b>
 # En
 <b>You can use this script to identify the type of hash and crack it.<b/>
-</br>
 <img src="hash.png" />
 <br />
 
