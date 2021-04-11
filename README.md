@@ -1,6 +1,9 @@
 # hash-cf
 Hash Cracker and Hash Finder
-
+# Fa
+.شما با استفاده از این اسکریپت میتوانید نوع هش را شناسایی کرده و آنرا کرک کنید
+# En
+You can use this script to identify the type of hash and crack it.
 <img src="hash.png" />
 <br />
 
