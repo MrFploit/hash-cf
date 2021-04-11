@@ -7,7 +7,7 @@ Hash Cracker and Hash Finder
 # prerequisites
 <pre><code>
 apt update <br />
-apt install git python -y <br /> 
+apt install git python3 -y <br /> 
 </code></pre>
 
 
