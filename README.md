@@ -3,6 +3,7 @@ Hash Cracker and Hash Finder
 
 <img src="hash.png" />
 <br />
+
 # prerequisites
 <pre><code>
 apt update <br />
